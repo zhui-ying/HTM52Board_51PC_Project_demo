@@ -1,0 +1,5 @@
+Iocomp.Instrumentation.Standard.EditInteger, Iocomp.Instrumentation.WF35.Std, Version=4.0.4.13104, Culture=neutral, PublicKeyToken=a217a64fde564c89
+Iocomp.Instrumentation.Professional.SwitchLever, Iocomp.Instrumentation.WF35.Pro, Version=4.0.4.13103, Culture=neutral, PublicKeyToken=a217a64fde564c89
+Iocomp.Instrumentation.Standard.Led, Iocomp.Instrumentation.WF35.Std, Version=4.0.4.13104, Culture=neutral, PublicKeyToken=a217a64fde564c89
+Iocomp.Instrumentation.Standard.Slider, Iocomp.Instrumentation.WF35.Std, Version=4.0.4.13104, Culture=neutral, PublicKeyToken=a217a64fde564c89
+Iocomp.Instrumentation.Professional.SlidingScale, Iocomp.Instrumentation.WF35.Pro, Version=4.0.4.13103, Culture=neutral, PublicKeyToken=a217a64fde564c89
