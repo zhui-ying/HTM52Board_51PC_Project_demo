@@ -86,8 +86,6 @@ void init_MODBUS(void)
 	modbusAdd = &modbus_Addt; //将指针指向定义好的内存
 	//point = &modbus_Addt;
 	rec_stat = PACK_START; //刚开始状态为开始接收
-	
-
 }
 /**************************************************************************************************
     NAME : checkPACK_MODBUS
